@@ -1,0 +1,70 @@
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojAssemblyReference.cache
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.AnaSayfa.resources
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.cache
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.GirisSayfa.resources
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.MusteriSayfa.resources
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.PersonelSayfa.resources
+C:\Users\kapla\Desktop\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.YoneticiSayfa.resources
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojAssemblyReference.cache
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.AnaSayfa.resources
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.GirisSayfa.resources
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.MusteriSayfa.resources
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.PersonelSayfa.resources
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.YoneticiSayfa.resources
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.cache
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\Nesneye Dayalı Programlama Proje\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojAssemblyReference.cache
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.AnaSayfa.resources
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.GirisSayfa.resources
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.MusteriSayfa.resources
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.PersonelSayfa.resources
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.YoneticiSayfa.resources
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.cache
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\Yeni klasör\BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojAssemblyReference.cache
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.AnaSayfa.resources
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.GirisSayfa.resources
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.MusteriSayfa.resources
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.PersonelSayfa.resources
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.YoneticiSayfa.resources
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.cache
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\kapla\Desktop\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe.config
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.exe
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\bin\Debug\BankaOtomasyon.pdb
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.AnaSayfa.resources
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.GirisSayfa.resources
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.MusteriSayfa.resources
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.PersonelSayfa.resources
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.Properties.Resources.resources
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.YoneticiSayfa.resources
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.exe
+C:\Users\user\Desktop\C#\Banka_Otomasyon_Proje_son\son verisyon BankaOtomasyon\BankaOtomasyon\obj\Debug\BankaOtomasyon.pdb
